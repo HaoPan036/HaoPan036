@@ -2,7 +2,7 @@
 
 **Applied AI / Full Stack Engineer**
 
-I build LLM agents, data agents, RAG systems, AI developer tools, and reliable AI applications — grounded in deterministic guardrails and evaluation rather than prompt-only trust. Currently pursuing an MSc in Applied AI at NTU, Singapore; previously worked in AI/ML education before moving into applied AI engineering.
+I build LLM agents, data agents, RAG systems, AI developer tools, and reliable AI applications — grounded in deterministic guardrails and evaluation rather than prompt-only trust. Currently pursuing a Master of Computing in Applied AI at NTU, Singapore; previously worked in AI/ML education before moving into applied AI engineering.
 
 ## Selected Work
 
@@ -32,7 +32,7 @@ Python · TypeScript · JavaScript · React · Next.js · FastAPI · SQL · LLM 
 
 ## Currently
 
-- MSc in Applied AI, NTU — Singapore
+- Master of Computing in Applied AI, NTU — Singapore
 - Focused on applied AI / agent engineering: data agents, RAG, reliable AI application design
 - Open to Applied AI / AI Engineering opportunities
 
