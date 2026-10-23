@@ -6,6 +6,14 @@ I build LLM agents, data agents, RAG systems, AI developer tools, and reliable A
 
 ## Selected Work
 
+### [hao-job](https://github.com/HaoPan036/hao-job)
+A job-search workflow for Codex and Claude Code: find roles, tailor resumes from your own materials, apply after an independent agent review, track outcomes, and prepare for interviews.
+Every resume statement cites its source, and unsupported claims stay out. Ships an Agent Skill, templates, a fictional walkthrough, and dependency-free Python checks; early alpha, bilingual README.
+
+### [agent-handoff](https://github.com/HaoPan036/agent-handoff)
+Hand a coding task between conversations, agents, and people with an evidence-based `HANDOFF.md`, rebuilt from git and tests rather than a chat summary.
+An Agent Skills package for Claude Code, Codex, Cursor, and more; on pickup the next agent re-checks branch, HEAD, working tree, and focused tests before continuing. Successor to the archived codex-handoff.
+
 ### [Data-Agent-Sandbox](https://github.com/HaoPan036/Data-Agent-Sandbox)
 A runnable BI data agent: a natural-language question becomes validated read-only SQL, an executed result, a chart, and a reviewable trace.
 Zod-validated request/response contracts, export guardrails, and a versioned regression eval harness with deterministic scoring — the core path runs without an LLM API key.
@@ -13,10 +21,6 @@ Zod-validated request/response contracts, export guardrails, and a versioned reg
 ### [PolicyGate](https://github.com/HaoPan036/PolicyGate)
 A runtime permission gateway for AI agent tool calls: the model proposes an action, deterministic code decides.
 Zod-validated policy engine returning ALLOW / APPROVAL / DENY, SOP-to-policy compilation, and an MCP-based tool-call integration.
-
-### [codex-handoff](https://github.com/HaoPan036/codex-handoff)
-Verified session handoffs for long-running Codex CLI agents, rebuilding continuation state from git and test evidence instead of a chat summary.
-Installable CLI with CI and tests; only hands off at a safe turn boundary, with a bilingual README.
 
 ### [ContexCue](https://github.com/HaoPan036/ContexCue)
 A cross-app memory and context layer for personal AI agents that gates what gets remembered instead of storing everything.
@@ -28,7 +32,7 @@ Full training loop, causal self-attention, and autoregressive sampling implement
 
 ## What I Work With
 
-Python · TypeScript · JavaScript · React · Next.js · FastAPI · SQL · LLM APIs · RAG · Agent Systems · MCP · Git
+Python · TypeScript · JavaScript · React · Next.js · FastAPI · SQL · LLM APIs · RAG · Agent Systems · Agent Skills · MCP · Git
 
 ## Currently
 
